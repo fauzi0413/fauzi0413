@@ -11,7 +11,6 @@ Hi! I'm Fauzi, a passionate developer from Indonesia who loves creating innovati
 - ⚡ Fun fact: I love solving bugs like puzzles
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,8 +23,16 @@ Hi! I'm Fauzi, a passionate developer from Indonesia who loves creating innovati
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-## 📈 GitHub Stats
-![Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzi0413&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzi0413&show_icons=true&theme=default&hide_title=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzi0413&layout=compact&theme=default&hide_title=true" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzi0413&theme=default" width="90%"/>
+</p>
 
 ## 🌱 What I'm Working On
 - Building responsive web applications with **Laravel** and **React**
