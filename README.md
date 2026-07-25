@@ -79,15 +79,16 @@ Hi! I'm **Fauzi**, a Full Stack Developer from Indonesia who enjoys creating rel
 </p>
 
 ---
-# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fauzi0413&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzi0413&theme=github-dark&hide_border=true"/>
-</p>
+<div align="center">
+<br>
+
+<img src="https://streak-stats.demolab.com?user=fauzi0413&theme=github-dark&hide_border=true"/>
+
+</div>
+
 ---
 
 # 🌱 Currently Working On
