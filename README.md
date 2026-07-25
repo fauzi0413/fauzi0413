@@ -79,23 +79,15 @@ Hi! I'm **Fauzi**, a Full Stack Developer from Indonesia who enjoys creating rel
 </p>
 
 ---
+# 📊 GitHub Activity
 
-# 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fauzi0413&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
 
-<div align="center">
-
-> **Jika GitHub Stats tidak muncul, biasanya karena server penyedianya sedang bermasalah. README ini tetap benar.**
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fauzi0413&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzi0413&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=fauzi0413&theme=github-dark&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzi0413&theme=github-dark&hide_border=true"/>
+</p>
 ---
 
 # 🌱 Currently Working On
