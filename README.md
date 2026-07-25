@@ -78,8 +78,8 @@ Hi! I'm **Fauzi**, a Full Stack Developer from Indonesia who enjoys transforming
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fauzi0413&show_icons=true&theme=transparent&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzi0413&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=fauzi0413&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzi0413&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
